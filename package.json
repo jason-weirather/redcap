@@ -1,5 +1,5 @@
 {
-  "name": "redcap-cio",
+  "name": "@vacation/redcap",
   "version": "0.3.0",
   "description": "simple, lightweight client module for REDCap",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.iu.edu/csi/redcap.js.git"
+    "url": "https://github.com/jason-weirather/redcap"
   },
   "dependencies": {
     "querystring": "^0.2.0",
