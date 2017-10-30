@@ -3,7 +3,6 @@
   "version": "0.3.0",
   "description": "simple, lightweight client module for REDCap",
   "main": "dist/index.js",
-  "private": true,
   "scripts": {
     "test": "mocha --recursive tests --reporter spec",
     "build": "babel lib --presets babel-preset-es2015 --out-dir dist"
